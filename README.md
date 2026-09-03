@@ -50,9 +50,5 @@ Currently, I'm mastering **backend system design** and **AI integration** to cre
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-singh-android/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ss3618255@gmail.com)
 
----
 
-### ⚡ Fun Facts
-- Solved 400+ LeetCode problems  
-- Working on a skill-based audio conversation app to be profitable from day one  
-- Setting up a self-hosted cloud server for 1000+ concurrent users  
+
